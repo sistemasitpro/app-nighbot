@@ -4,7 +4,7 @@ This code allows you to add songs to Nightbot's playlist using the Nightbot API 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sistemasitpro/app-nighbot-import-txt.git`
+1. Clone the repository: `git clone https://github.com/sistemasitpro/app-nighbot.git`
 
 ## Usage
 
