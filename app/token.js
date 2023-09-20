@@ -18,7 +18,6 @@ async function addSongs(token, file) {
       // Make the POST request to add the song to Nightbot
       try {
         const response = await axios.post(url, data, { headers });
-        //console.log(response)
         if (response.status === 200) {
           console.log(`Song added: ✅ ${cleanSong} ✅ `);
         } else {
