@@ -29,6 +29,7 @@ To add songs to Nightbot, follow these steps:
 ![Alt text](images/image-2.png)
 
 5. Run the code: `node app/token.js`
+
 > [!WARNING] 
 > If it generates an error in any of the links, it is possible that the video you are trying to add is longer than 10 minutes or is shorter than 30 seconds **(nighbot does not allow + 10min and less 30 seconds).**
 
